@@ -30,7 +30,6 @@ class Player
     end
   end
 end
-
 # player_hand = Player.new
 # 相手が「0~2」の値をランダムに生成するロジックを書きます。
 class Enemy
